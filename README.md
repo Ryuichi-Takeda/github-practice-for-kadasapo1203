@@ -1,6 +1,6 @@
 # github-practice-for-kadasapo1203
 
-#clone
+# clone
 git cloneは　users/kawahatasakurako/workspace
 に入って、そこでgit clone　する
 
