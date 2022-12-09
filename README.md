@@ -1,6 +1,6 @@
 # github-practice-for-kadasapo120
 
-##change directory
+## change directory
 ターミナルでusers/kawahatasakurakoにいるときに cd workspace と打つとworkspaceに移動できる。
 
 ## clone
